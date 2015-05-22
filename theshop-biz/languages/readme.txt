@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Here is a short description of the plugin.  
 == Description ==
-TheShop.biz provides the Wordpress users with this easy to use Wordpress Plugin which can be used to create a online store in just a matter of few seconds.
+TheShop.biz provides the Wordpress users with this easy to use Wordpress Plugin which can be used to create a online store in just a matter of few minutes.
 All the User needs to do is activate in and after that go to http://yourwpsiteurl/wp-content/plugins/theshop-biz to use this facility
 A few notes about the sections above:
 *   "NandiniGoel" is a comma separated list of wp.org/wp-plugins.org usernames
