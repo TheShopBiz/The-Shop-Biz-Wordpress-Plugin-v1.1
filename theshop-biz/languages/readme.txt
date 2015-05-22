@@ -19,7 +19,7 @@ A few notes about the sections above:
 This section describes how to install the plugin and get it working.
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to http://yourwpsite/wp-content/plugins/theshop-biz to use the plugin to start creating stores for free
+3. Now you can provide your Users the button to create a Online Store
 
 == Frequently Asked Questions ==
 What is the main website? :: Answer- Theshop.biz
